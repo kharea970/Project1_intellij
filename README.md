@@ -1,2 +1,11 @@
 # Project1_intellij
-<img src=images/codea1>
+<img src=images/OUTPUT1A.jpg>
+<img src=images/OUTPUT1A.jpg>
+<img src=images/OUTPUT1A.jpg>
+<img src=images/OUTPUT1A.jpg>
+<img src=images/OUTPUT1A.jpg>
+<img src=images/OUTPUT1A.jpg>
+<img src=images/OUTPUT1A.jpg>
+<img src=images/OUTPUT1A.jpg>
+<img src=images/OUTPUT1A.jpg>
+<img src=images/OUTPUT1A.jpg>
